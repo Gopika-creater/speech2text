@@ -1,2 +1,4 @@
 # speech2text
-simple speech totext using huggingface and gradio
+simple speech to text using huggingface and gradio
+pip install gradio, transformers, ffpr, torch
+attach an audio input file
