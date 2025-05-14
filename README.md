@@ -1,10 +1,2 @@
 # speech2text
-simple speech to text using huggingface and gradio
-# installing required libraries in my_env
-pip3 install virtualenv 
-virtualenv my_env            # create a virtual environment my_env
-source my_env/bin/activate   # activate my_env
-pip install transformers==4.36.0 torch==2.1.1 gradio==5.23.2 huggingface-hub==0.28.1
-sudo apt update
-sudo apt install ffmpeg -y
-pip install -U langchain
+simple speech to text using huggingface,openAI whisper and gradio
